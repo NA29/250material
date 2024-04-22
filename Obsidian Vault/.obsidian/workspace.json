@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "39dd750fc969141a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c49847c4fe3112db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28573bf4abda66cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECSE250 notes/Heaps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5bd82aaa960ef168",
+    "type": "split",
+    "children": [
+      {
+        "id": "e81b15b758ca7304",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05b07e331d8598c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "40bcc7adacd67e7a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "12566489de57fdc9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f8491c33887f6612",
+    "type": "split",
+    "children": [
+      {
+        "id": "69fed2638fa756d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ca2ed6f2cd8291e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ECSE250 notes/Heaps.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b42ffd37a308fa1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ECSE250 notes/Heaps.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3edd64e6d4c9047",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a9868777fa7c8ca3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ECSE250 notes/Heaps.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "28573bf4abda66cc",
+  "lastOpenFiles": [
+    "ECSE250 notes/Binary trees.md",
+    "ECSE250 notes/Heaps.md",
+    "Attachments/Pasted image 20240422021249.png",
+    "Attachments/Pasted image 20240422020956.png",
+    "Attachments/Pasted image 20240422020938.png",
+    "Attachments/Pasted image 20240422020250.png",
+    "Attachments/Pasted image 20240422014950.png",
+    "Attachments/Pasted image 20240422014329.png",
+    "ECSE250 notes/Comparable interface.md",
+    "Attachments/Pasted image 20240422012420.png",
+    "Attachments/Pasted image 20240422011441.png",
+    "Attachments/Pasted image 20240422011330.png",
+    "Attachments/Pasted image 20240422011207.png",
+    "ECSE250 notes/Generics 1.md",
+    "Attachments/22 - Heaps.pdf",
+    "ECSE250 notes/Trees.md",
+    "COMP206/Untitled.md",
+    "().md",
+    "ECSE250 notes/Quicksort.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "ECSE250 notes/Merge sort.md",
+    "ECSE250 notes/Binary search.md",
+    "ECSE250 notes/Induction and recursion.md",
+    "ECSE222/Encoders and decoders.md",
+    "ECSE250 notes/Quadratic Sorting.md",
+    "ECSE250 notes/OOD interfaces.md",
+    "ECSE250 notes/Iterable and Iterator.md",
+    "ECSE250 notes/Java LIST Class.md",
+    "COMP206",
+    "ECSE250 notes/Generics.md",
+    "ECSE222",
+    "Attachments",
+    "ECSE250 notes"
+  ]
+}
