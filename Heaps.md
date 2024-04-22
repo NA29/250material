@@ -29,3 +29,39 @@ we set the current node to the parent because it is this node that we chose to a
 when we remove min, we swap the root withthe last element added, then swap the last element added (now situated at the root, with its smallest child, recursively)
 
 ![[Pasted image 20240422012420.png]]
+store the min key in temp
+remove the last leaf and store key in root
+set the current node to the root
+
+while the current key is greater than at least one of its children, we swap the current node with its child (smallest out of the two) and set the current node to the child. the while loop makes it "recursive"
+
+return the value of the deleted node stored in temp originally
+
+
+![[Pasted image 20240422014329.png]]
+
+each depth at a time
+
+parent index = child / 2
+
+left child = 2* parent
+right child = 2* parent + 1
+
+![[Pasted image 20240422014950.png]]
+
+add implementation used list
+update the size because we add 1 new element
+while the size is greater than 1 (not only root) and the child is smaller than the parent, we swap the child and the parent
+	the child at this time is the current node so heap[\i] and the parent is heap[1/2]
+update the size index (represents index of current node)
+
+once we defined the add method, we can build a heap with the buildHeap method
+![[Pasted image 20240422020250.png]]
+
+==best case, array already a heap O(n)
+worst case, (O(nlog(n)))==
+
+remove min is similar for its implementation
+![[Pasted image 20240422020956.png]]
+
+![[Pasted image 20240422021249.png]]
